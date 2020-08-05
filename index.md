@@ -1,4 +1,4 @@
-## Welcome to Manisha's GitHub Pages
+## Welcome to Manisha Punwani's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WorkWithData/WorkWithData/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
