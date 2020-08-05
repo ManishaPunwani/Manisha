@@ -1,6 +1,6 @@
 # Welcome to Manisha's Website
 
-## This is my first time building a website on [GitHub](https://workwithdata.github.io/WorkWithData/) ... So excited :blush:
+## This is my first time building a website on [GitHub](https://workwithdata.github.io/WorkWithData/) ... So excited
 
 
 ![forest](forest-931706_1920.jpg)
